@@ -315,3 +315,5 @@ ORDER BY a.name, at.name;\q
 ### Conclusion
 
 This project demonstrates a production-oriented approach to building a reliable internal wallet system. It emphasizes correctness, auditability, and safe concurrency handling, aligning closely with real-world financial system design principles.
+
+Video demo: https://drive.google.com/file/d/1tLdPC6Z1QNQAvtnMk_lf2NjA7Z62BiQ-/view?usp=drive_link
