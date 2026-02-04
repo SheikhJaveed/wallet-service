@@ -143,6 +143,11 @@ wallet-service/
 - Docker
 - Docker Compose
 
+
+To install dependencies
+```bash
+npm i 
+```
 ### Run the Service
 
 ```bash
